@@ -1,2 +1,3 @@
+Buka VSCode
 jika ingin me running aplikasi greenguard, gunakan perintah ini pada terminal direktori yang sedang dibuka berikut adalah perintahnya :
 python -m streamlit run greenguard.py
