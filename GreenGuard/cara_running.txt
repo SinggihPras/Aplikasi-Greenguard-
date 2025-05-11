@@ -1,3 +1,8 @@
+Download file .zip yang ada pada folder GreenGuard
+Ekstrak .zip
 Buka VSCode
-jika ingin me running aplikasi greenguard, gunakan perintah ini pada terminal direktori yang sedang dibuka berikut adalah perintahnya :
+Open folder dan pilih folder greenguard_app
+Buka Terminal pada VSCode
+masukkan prompt dibawah :
 python -m streamlit run greenguard.py
+maka otomatis jika tidak ada kendala dengan dependensi, pasti akan dialihkan ke localhost:8501
