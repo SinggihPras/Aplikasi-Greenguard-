@@ -27,16 +27,14 @@ Greenguard adalah aplikasi berbasis [Streamlit](https://streamlit.io) yang digun
 
 2. **Install dependensi**:
    ```bash
-   pip install streamlit pillow numpy
+   pip install tensorflow
+   pip install numpy
+   pip install ttkbootsrap
    ```
 
 3. **Jalankan aplikasi**:
    ```bash
-   streamlit run greenguard.py
-   ```
-   Jika tidak dikenali, gunakan:
-   ```bash
-   python -m streamlit run greenguard.py
+   python main.py
    ```
 
 ---
