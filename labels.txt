@@ -1,0 +1,5 @@
+0 Daun Keriting
+1 Bercak Daun
+2 Daun Berkutu
+3 Daun Kuning
+4 Daun Sehat
